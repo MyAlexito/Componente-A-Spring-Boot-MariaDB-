@@ -1,4 +1,6 @@
-com\multipedidos\componente_a\ComponenteAApplication.class
 com\multipedidos\componentea\model\ProductoEmbeddable.class
+com\multipedidos\componentea\repository\PedidoRepository.class
+com\multipedidos\componente_a\ComponenteAApplication.class
 com\multipedidos\componentea\model\Cliente.class
+com\multipedidos\componentea\repository\ClienteRepository.class
 com\multipedidos\componentea\model\Pedido.class
